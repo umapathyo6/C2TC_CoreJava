@@ -1,11 +1,8 @@
-package day1;
+package day3;
 
-public class CoreJava {
+public class corejaav3 {
 
 	public static void main(String[] args) {
-		var b="umapathy";
-		System.out.println(b);
-	
 		// TODO Auto-generated method stub
 
 	}
