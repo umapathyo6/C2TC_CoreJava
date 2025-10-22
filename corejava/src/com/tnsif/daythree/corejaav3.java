@@ -1,10 +1,9 @@
-package day1;
+package com.tnsif.daythree;
 
-public class FirstProgram {
-	
+public class corejaav3 {
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("Hello");
 
 	}
 
